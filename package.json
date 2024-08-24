@@ -13,7 +13,7 @@
     "axios": "^1.6.8",
     "crypto-js": "^4.2.0",
     "element-plus": "^2.6.3",
-    "pinia": "^2.1.7",
+    "pinia": "^2.2.0",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0",
     "vuex": "^4.1.0"
